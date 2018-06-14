@@ -1,5 +1,5 @@
 # Bootstrap-Portfolio
 
-Christohper Watson updated portfolio, implemeneting Boostrap Libraries
+Christohper Watson updated portfolio, implementing Boostrap Libraries
 
 v1.1
